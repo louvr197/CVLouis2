@@ -1,0 +1,95 @@
+{
+  "personal_info": {
+    "name": "Louis S. Van Renterghem",
+    "birth_date": "01/09/1997",
+    "address": {
+      "street": "Rue des écoles 24",
+      "city": "Marbais",
+      "postal_code": "1495",
+      "country": "Belgique"
+    },
+    "phone": "+32479184397",
+    "email": "louis.vanrent@gmail.com"
+  },
+  "experiences": {
+    "professional": [
+      {
+        "title": "Gestionnaire du parc informatique",
+        "company": "L'Intercommunale Sociale du Brabant Wallon",
+        "start_date": "Octobre 2023"
+      }
+    ],
+    "internships_and_student_jobs": [
+      {
+        "title": "Programmation d'un système de prédiction des consommations énergétiques de bâtiment utilisant l'apprentissage automatique",
+        "start_date": "Février 2022",
+        "end_date": "Juillet 2022"
+      },
+      {
+        "title": "Soutien au service signalisation de l'UCLouvain",
+        "occurrences": [{ "year": "Juillet 2021" }]
+      },
+      {
+        "title": "Installation de nouvelles machines dans les salles informatiques de l'UCLouvain",
+        "occurrences": [{ "year": "Septembre 2020" }]
+      },
+      {
+        "title": "Animateur de plaines vacances avec Animagique",
+        "occurrences": [{ "year": "Été 2019" }]
+      },
+      {
+        "title": "Installation de Rack dans les salles serveur de l'UCLouvain",
+        "occurrences": [{ "year": "Juillet 2018" }]
+      },
+      {
+        "title": "Animateur de plaines vacances avec Jeunesse & Santé",
+        "occurrences": [
+          { "year": "Été 2014" },
+          { "year": "Été 2015" },
+          { "year": "Été 2016" }
+        ]
+      },
+      {
+        "title": "Bénévole dans la boutique Oxfam du collège",
+        "start_date": "2012",
+        "end_date": "2013"
+      }
+    ]
+  },
+  "education": [
+    {
+      "degree": "Développement web",
+      "institution": "IFOSUP Wavre",
+      "years": "2024-2026"
+    },
+    {
+      "degree": "Informatique de gestion - Option Big Data",
+      "institution": "Hénallux",
+      "years": "2019-2022"
+    },
+    {
+      "degree": "Ingénieur Civil (non terminé)",
+      "institution": "EPL UCLouvain",
+      "years": "2015-2019",
+      "ects": 124
+    },
+    {
+      "degree": "CESS",
+      "institution": "Collège du Christ Roi Ottignies",
+      "years": "2009-2015"
+    }
+  ],
+  "skills": {
+    "languages": [
+      { "language": "Français", "level": "Langue Maternelle" },
+      { "language": "Anglais", "level": "C1 - 100% au TOEIC" },
+      { "language": "Néerlandais", "level": "B1" }
+    ],
+    "certifications": [
+      {
+        "title": "Brevets animateur Jeunesse",
+        "organization": "Jeunesse & Santé Brabant Wallon (maintenant Ocarina)"
+      }
+    ]
+  }
+}
